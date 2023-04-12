@@ -63,7 +63,7 @@ sudo npm install -g n
 n 14.20
 ```
 
-### Instalando pendências dentro das pastas
+### Instalando dependências dentro das pastas
 
 ```
 cd web-app
